@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+🔭 I’m currently working on SW engineer/AI engineer/Firmware engineer<br>
+👯 I’m looking to collaborate on software tech/game/cybersecurity/embedded system/SLAM/Robot/vehicle<br><!--🤝 I’m looking for help with<br>-->
+🌱 I’m currently learning SLAM, openCV and AI/ML<br>
+💬 Ask me about business development and market analysis <br>
+⚡ Fun fact i start-up and failled now i'm ALIVER and with a liver.
 
 
 ## 🌐 Socials:
