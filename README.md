@@ -5,6 +5,8 @@
 💬 Ask me about business development and market analysis <br>
 ⚡ Fun fact i start-up and failled now i'm ALIVER and with a liver.
 
+**🌟 I'm an engineering student with a passion for problem-solving and a knack for finding innovative solutions. I'm excited about the prospect of remote work, which allows me to collaborate with diverse teams 🌍 and tackle complex challenges 🚀 from anywhere. I believe in fostering a more flexible and inclusive work environment 🤝, where creativity and collaboration can flourish regardless of location.**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatCat.KJ01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KAI-CHIEH TU) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/KAI-CHIEH TU) 
