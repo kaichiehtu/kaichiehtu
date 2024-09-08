@@ -5,7 +5,7 @@
 💬 Ask me about business development and market analysis <br>
 ⚡ Fun fact i start-up and failled now i'm ALIVER and with a liver.
 
-**🌟 I'm an engineering student with a passion for problem-solving and a knack for finding innovative solutions. I'm excited about the prospect of remote work, which allows me to collaborate with diverse teams 🌍 and tackle complex challenges 🚀 from anywhere. I believe in fostering a more flexible and inclusive work environment 🤝, where creativity and collaboration can flourish regardless of location.**
+🌟 I'm an engineering student with a passion for problem-solving and a knack for finding innovative solutions. I'm excited about the prospect of remote work, which allows me to collaborate with diverse teams 🌍 and tackle complex challenges 🚀 from anywhere. I believe in fostering a more flexible and inclusive work environment 🤝, where creativity and collaboration can flourish regardless of location.
 
 
 ## 🌐 Socials:
